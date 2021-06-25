@@ -1,12 +1,15 @@
-package Clase1 //Define el paquete main
+package main
 
-// Importa librerías
 import (
 	"fmt"
 )
 
 func main() {
 
-	fmt.Println("Hola mundo") //Imprimir
+	miNombre := "Julián Velandia"
+	miDireccion := "Chapinero, Bogotá"
+
+	fmt.Println("Mi nombre es ", miNombre)
+	fmt.Println("Yo vivo en ", miDireccion)
 
 }
