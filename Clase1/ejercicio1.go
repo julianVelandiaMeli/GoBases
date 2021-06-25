@@ -6,6 +6,11 @@ import (
 
 func main() {
 
+	/*
+		1. Crea una aplicación donde tengas como variable tu nombre y dirección.
+		2. Imprime en consola el valor de cada una de las variables.
+	*/
+
 	miNombre := "Julián Velandia"
 	miDireccion := "Chapinero, Bogotá"
 
